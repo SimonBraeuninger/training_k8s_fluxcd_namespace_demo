@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: helloworld-config
 data:
-  NAME: WORLD-DEV
+  NAME: WORLD-LOCAL
