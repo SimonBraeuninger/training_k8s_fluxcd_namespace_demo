@@ -18,4 +18,3 @@ spec:
   tls:
     - hosts:
         - helloworld.training.jambit.space
-      secretName: tls-secret
